@@ -34,17 +34,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="bg-white antialiased">
-        {/* Sticky Navbar */}
         <header className="sticky top-0 z-50">
           <Navbar />
         </header>
-
-        {/* Main Content with Padding */}
         <main className="pt-20 md:pt-24 pb-10">
           {children}
         </main>
-
-        {/* Footer */}
         <Footer />
       </body>
     </html>

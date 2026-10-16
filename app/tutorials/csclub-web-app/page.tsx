@@ -24,7 +24,7 @@ export default function CSClubAppTutorial() {
                 Open a terminal or command prompt and run the following command to clone the CS Club web app repository:
             </p>
             <pre className="bg-gray-100 p-4 rounded mb-4">
-                git clone https://github.com/MSUCSClub/csclub-web-app.git
+                git clone https://github.com/travis-softwhere/minot-state-csclub.git
             </pre>
 
             <h3 className="text-2xl font-semibold mb-2">3. Navigate to the Project Directory</h3>
